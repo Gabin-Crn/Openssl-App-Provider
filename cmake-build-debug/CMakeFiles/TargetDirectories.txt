@@ -1,0 +1,3 @@
+C:/Users/uig40448/Documents/Openssl-App-Provider/cmake-build-debug/CMakeFiles/Openssl_App_Provider.dir
+C:/Users/uig40448/Documents/Openssl-App-Provider/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uig40448/Documents/Openssl-App-Provider/cmake-build-debug/CMakeFiles/rebuild_cache.dir

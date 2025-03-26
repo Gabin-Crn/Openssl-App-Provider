@@ -1,0 +1,5 @@
+# ninja log v6
+5	464	7647043747311975	build.ninja	a76d5793ac8f4efd
+2	337	7647043747311975	build.ninja	a76d5793ac8f4efd
+2	194	7647043747848500	CMakeFiles/Openssl_App_Provider.dir/main.c.obj	70d120d6b723e91a
+197	374	7647043749793381	Openssl_App_Provider.exe	b3463fe2fedf3302
